@@ -1,11 +1,11 @@
 # BLOB
 Code and data repository for the BLOB manuscript
 
-Files: 
+File content: 
 
 Blob_MS_figures_v21.Rmd - RMarkdown for ann statistical and most of the graphical outputs, done in RStudio.
 
-*.csv different input files used in the markdown
+*.csv - different input files used in the markdown
 
 StationP26_forSachia.mat - CTD data
 
