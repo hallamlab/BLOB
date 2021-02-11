@@ -3,7 +3,7 @@ Code and data repository for the BLOB manuscript
 
 File content: 
 
-Blob_MS_figures_v31.Rmd - RMarkdown for ann statistical and most of the graphical outputs, done in RStudio.
+Blob_MS_figures_v31.Rmd - RMarkdown for all (except network analyses and visualizations) statistical and most of the graphical outputs, done in R and RStudio.
 
 *.csv - different input files used in the markdown
 
