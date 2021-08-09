@@ -13,3 +13,4 @@ CTD data: StationP26_forSachia.mat
 
 Blob_settings.config, Blob_subset_depths.cys, and Blob_subset_depths.gephi - all required files for reproducing network analysis and output.
 
+Cite the code: [![DOI](https://zenodo.org/badge/290856232.svg)](https://zenodo.org/badge/latestdoi/290856232)
