@@ -7,7 +7,7 @@ Blob_MS_figures_v32.Rmd - RMarkdown for all (except network analyses and visuali
 
 *.csv - different input files used in the markdown
 
-Raw abundance table: otu_table_SIILVA132_tax_noCM.csv
+Raw abundance table: otu_table_SILVA132_tax_noCM.csv
 
 CTD data: StationP26_forSachia.mat
 
